@@ -1,0 +1,2 @@
+Install: 
+    brew install mysql
